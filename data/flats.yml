@@ -1,0 +1,27 @@
+brieuc:
+  owner_name: Brieuc Lambert
+  owner_picture: brieuc.jpg
+  picture: card-paris.jpg
+  name: Brieuc's flat
+  summary: chambre charmante sur le périph
+  city: Paris, France
+  wifi: true
+  guests: 2
+nana:
+  owner_name: Nana Lou
+  owner_picture: nana.jpg
+  picture: card-brussels.jpeg
+  name: Nana's house
+  summary: jolie maison de banlieue
+  city: Saint-Denis, France
+  wifi: true
+  guests: 25
+Zezette:
+  owner_name: Zeze tte
+  owner_picture: zeze.jpg
+  picture: card-london.jpeg
+  name: Zeze's house
+  summary: maison à la campagne
+  city: Verneuil, France
+  wifi: false
+  guests: 12
